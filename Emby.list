@@ -1,6 +1,7 @@
 HOST-KEYWORD,emby,Emby
 HOST-KEYWORD,jmsooo,Emby
 HOST-KEYWORD,odysseyplus,Emby
+HOST-KEYWORD,embyplus,Emby
 
 HOST-SUFFIX,odysseyplus.site,Emby
 HOST-SUFFIX,otakudrive.life,Emby
@@ -10,3 +11,4 @@ HOST-SUFFIX,emby.nexitally.com,Emby
 HOST-SUFFIX,jmsooo.com,Emby
 HOST-SUFFIX,emby-cf.plusmedia.site,Emby
 HOST-SUFFIX,kyarucloud.moe,Emby
+HOST-SUFFIX,embyplus.org,Emby
